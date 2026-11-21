@@ -3,7 +3,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/pass-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./assets/pass-light.svg">
-      <img alt="wordfangs. Operator Pass: Ade Hafizul Alam · Web3 BD · Community · Global Growth · Since 2020 · UTC+7 · Indonesia · Verified at wordfangs.biz.id" src="./assets/pass-dark.svg" width="840" height="320">
+      <img alt="wordfangs. Operator Pass: Ade Hafizul Alam · Web3 BD · Community · Global Growth · Since 2020 · UTC+7 · Indonesia · Verified at wordfangs.biz.id" src="./assets/pass-dark.svg" width="840">
     </picture>
   </a>
 </p>
