@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="320" viewBox="0 0 840 320" fill="none" role="img" aria-labelledby="t3 d3">
+<title id="t3">wordfangs. Operator Pass: Ade Hafizul Alam</title>
+<desc id="d3">Web3 BD · Community · Global Growth. Since 2020 · UTC+7 · Indonesia. Verified at wordfangs.biz.id</desc>
+<style>
+svg{--page:#ffffff;--card:#f6f8fa;--line:#d0d7de;--fg:#1f2328;--mute:#59636e;--blue:#1d4ed8;--green:#15803d}
+.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+.card{fill:var(--card);stroke:var(--line)}.notch{fill:var(--page);stroke:var(--line)}
+.fg{fill:var(--fg)}.mu{fill:var(--mute)}.bl{fill:var(--blue)}.gr{fill:var(--green)}.cd{fill:var(--card)}
+.grid,.ln{stroke:var(--line)}
+.perf{stroke:var(--line);stroke-width:2;stroke-linecap:round;stroke-dasharray:.1 7}
+.pad{fill:var(--card);stroke:var(--line);stroke-width:1.5}
+.chip{fill:var(--page);stroke:var(--blue);stroke-width:1.5}.chipl{stroke:var(--blue);stroke-width:1.2;opacity:.7}
+.nfc{stroke:var(--mute);stroke-width:2;stroke-linecap:round}
+.stamp{stroke:var(--green)}.check{stroke:var(--green);stroke-width:5;stroke-linecap:round;stroke-linejoin:round}
+.trace{stroke:var(--blue);stroke-width:1.5;opacity:.85}.node{fill:var(--blue);stroke:var(--blue);stroke-width:1.5}
+.beacon{fill:none;stroke:var(--green);stroke-width:1.5;opacity:0}
+.sheen{opacity:0}.s0{stop-color:var(--fg);stop-opacity:0}.s1{stop-color:var(--fg);stop-opacity:.09}
+@media (prefers-reduced-motion:no-preference){
+.sheen{animation:sweep 8s cubic-bezier(.4,0,.2,1) infinite}
+.beacon{animation:pulse 2.6s ease-out infinite}
+.nfc path{animation:nfc 2.4s ease-in-out infinite}
+.nfc path:nth-child(2){animation-delay:.25s}.nfc path:nth-child(3){animation-delay:.5s}
+.node{animation:nodepulse 10s ease-in-out infinite}
+.n1{animation-delay:0s}.n2{animation-delay:2s}.n3{animation-delay:4s}.n4{animation-delay:6s}.n5{animation-delay:8s}
+}
+@media (prefers-reduced-motion:reduce){
+.sheen,.beacon{opacity:0;animation:none}
+.nfc path,.node{animation:none}
+}
+@keyframes sweep{0%{opacity:1;transform:translateX(-260px)}24%{opacity:1;transform:translateX(1040px)}24.01%,100%{opacity:0;transform:translateX(1040px)}}
+@keyframes pulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(2.5);opacity:0}}
+@keyframes nfc{0%,100%{opacity:1}50%{opacity:.35}}
+@keyframes nodepulse{0%,20%,100%{stroke-width:1.5;stroke-opacity:1}10%{stroke-width:6;stroke-opacity:.35}}
+</style>
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path class="grid" d="M24 .5H.5V24"/></pattern>
+  <linearGradient id="fade" x1="0" y1="1" x2="1" y2="0"><stop offset=".45" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#fff" stop-opacity=".9"/></linearGradient>
+  <mask id="m"><rect x="56" width="784" height="280" fill="url(#fade)"/></mask>
+  <clipPath id="clip"><rect width="840" height="320" rx="18"/></clipPath>
+  <linearGradient id="sh" x1="0" x2="1"><stop offset="0" class="s0"/><stop offset=".5" class="s1"/><stop offset="1" class="s0"/></linearGradient>
+  <path id="ring" d="M678 140a50 50 0 1 1 100 0a50 50 0 1 1-100 0"/>
+</defs>
+<rect class="card" x=".5" y=".5" width="839" height="319" rx="18"/>
+<g clip-path="url(#clip)">
+  <rect x="56" width="784" height="280" fill="url(#grid)" mask="url(#m)"/>
+  <circle class="notch" cx="56" cy="0" r="10"/><circle class="notch" cx="56" cy="320" r="10"/>
+</g>
+<path class="perf" d="M56 18V302"/>
+<circle class="bl" cx="28" cy="34" r="3"/><circle class="bl" cx="28" cy="286" r="3"/>
+<text class="mono mu" x="28" y="164" font-size="11" letter-spacing="4" text-anchor="middle" transform="rotate(-90 28 160)">OPERATOR PASS</text>
+<path class="ln" d="M600 84H470l-12 12H366M600 108H508l-12 12H430M548 84V66"/>
+<circle class="pad" cx="362" cy="96" r="3.5"/><circle class="pad" cx="426" cy="120" r="3.5"/><circle class="pad" cx="548" cy="62" r="3.5"/>
+<g>
+  <text class="sans fg" x="88" y="52" font-size="26" font-weight="800" letter-spacing="-1" textLength="124" lengthAdjust="spacingAndGlyphs">wordfangs</text>
+  <circle class="bl" cx="219" cy="48.5" r="3.6"/>
+  <text class="mono mu" x="600" y="50" font-size="11" letter-spacing="2" text-anchor="end">NO. 0x2020</text>
+</g>
+<g>
+  <rect class="chip" x="88" y="76" width="52" height="38" rx="7"/>
+  <path class="chipl" d="M106 76V114M122 76V114M88 89H106M88 101H106M122 89H140M122 101H140"/>
+  <g class="nfc"><path d="M154 86a14 14 0 0 1 0 18"/><path d="M161 81a21 21 0 0 1 0 28"/><path d="M168 76a28 28 0 0 1 0 38"/></g>
+</g>
+<g>
+  <text class="sans fg" x="88" y="166" font-size="36" font-weight="700" letter-spacing="-.8">Ade Hafizul Alam</text>
+  <text class="mono bl" x="88" y="196" font-size="13" letter-spacing="2.4">WEB3 BD · COMMUNITY · GLOBAL GROWTH</text>
+</g>
+<path class="ln" d="M88 216.5H600" stroke-dasharray="3 5"/>
+<g class="mono">
+  <g class="mu" font-size="10" letter-spacing="2"><text x="88" y="240">SINCE</text><text x="188" y="240">ZONE</text><text x="288" y="240">BASE</text><text x="420" y="240">STATUS</text></g>
+  <g class="fg" font-size="15" font-weight="600"><text x="88" y="262">2020</text><text x="188" y="262">UTC+7</text><text x="288" y="262">INDONESIA</text></g>
+  <g transform="translate(424 257)"><circle class="beacon" cx="0" cy="0" r="4"/><circle class="gr" cx="0" cy="0" r="4"/></g><text class="gr" x="436" y="262" font-size="15" font-weight="600">ACTIVE</text>
+</g>
+<path class="ln" d="M616 28V256" stroke-dasharray="2 4"/>
+<g transform="rotate(-8 728 140)">
+  <circle class="stamp" cx="728" cy="140" r="62" stroke-width="2"/>
+  <circle class="stamp" cx="728" cy="140" r="44" stroke-dasharray="2 3" opacity=".7"/>
+  <text class="mono gr" font-size="9.5" letter-spacing="1.9"><textPath href="#ring" xlink:href="#ring">VERIFIED · OFFICIAL · WORDFANGS.BIZ.ID ·</textPath></text>
+  <path class="check" d="M709 141l12 12 26-27"/>
+</g>
+<text class="mono mu" x="728" y="224" font-size="9.5" letter-spacing="2" text-anchor="middle">VERIFY AT</text>
+<text class="mono bl" x="728" y="243" font-size="12.5" text-anchor="middle">wordfangs.biz.id ↗</text>
+<path class="ln" d="M57 280.5H839"/>
+<path class="trace" d="M92 301H806"/>
+<g class="mono fg" font-size="11">
+  <rect class="cd" x="96" y="293" width="68" height="16"/><text x="100" y="305" textLength="59.4" lengthAdjust="spacing">TOKEN2049</text>
+  <rect class="cd" x="236" y="293" width="68" height="16"/><text x="240" y="305" textLength="59.4" lengthAdjust="spacing">Consensus</text>
+  <rect class="cd" x="376" y="293" width="48" height="16"/><text x="380" y="305" textLength="39.6" lengthAdjust="spacing">Devcon</text>
+  <rect class="cd" x="516" y="293" width="68" height="16"/><text x="520" y="305" textLength="59.4" lengthAdjust="spacing">ETHDenver</text>
+  <rect class="cd" x="656" y="293" width="94" height="16"/><text x="660" y="305" textLength="85.8" lengthAdjust="spacing">Coinfest Asia</text>
+</g>
+<circle class="node n1" cx="88" cy="301" r="4"/><circle class="node n2" cx="228" cy="301" r="4"/><circle class="node n3" cx="368" cy="301" r="4"/><circle class="node n4" cx="508" cy="301" r="4"/><circle class="node n5" cx="648" cy="301" r="4"/>
+<circle class="pad" cx="810" cy="301" r="4"/>
+<g clip-path="url(#clip)"><g transform="skewX(-20)"><rect class="sheen" x="0" y="-40" width="200" height="400" fill="url(#sh)"/></g></g>
+</svg>
