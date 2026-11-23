@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="320" viewBox="0 0 840 320" fill="none" role="img" aria-labelledby="t3 d3">
 <title id="t3">wordfangs. Operator Pass: Ade Hafizul Alam</title>
-<desc id="d3">Web3 BD · Community · Global Growth. Since 2020 · UTC+7 · Indonesia. Verified at wordfangs.biz.id</desc>
+<desc id="d3">Web3 BD · Community · Global Growth. Since 2019 · UTC+7 · Indonesia. Verified at wordfangs.biz.id</desc>
 <style>
 svg{--page:#0d1117;--card:#161b22;--line:#30363d;--fg:#e6edf3;--mute:#8b949e;--blue:#60a5fa;--green:#4ade80}
 .sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans",Helvetica,Arial,sans-serif}
@@ -54,7 +54,7 @@ svg{--page:#0d1117;--card:#161b22;--line:#30363d;--fg:#e6edf3;--mute:#8b949e;--b
 <g>
   <text class="sans fg" x="88" y="52" font-size="26" font-weight="800" letter-spacing="-1" textLength="124" lengthAdjust="spacingAndGlyphs">wordfangs</text>
   <circle class="bl" cx="219" cy="48.5" r="3.6"/>
-  <text class="mono mu" x="600" y="50" font-size="11" letter-spacing="2" text-anchor="end">NO. 0x2020</text>
+  <text class="mono mu" x="600" y="50" font-size="11" letter-spacing="2" text-anchor="end">NO. 0x2019</text>
 </g>
 <g>
   <rect class="chip" x="88" y="76" width="52" height="38" rx="7"/>
@@ -68,7 +68,7 @@ svg{--page:#0d1117;--card:#161b22;--line:#30363d;--fg:#e6edf3;--mute:#8b949e;--b
 <path class="ln" d="M88 216.5H600" stroke-dasharray="3 5"/>
 <g class="mono">
   <g class="mu" font-size="10" letter-spacing="2"><text x="88" y="240">SINCE</text><text x="188" y="240">ZONE</text><text x="288" y="240">BASE</text><text x="420" y="240">STATUS</text></g>
-  <g class="fg" font-size="15" font-weight="600"><text x="88" y="262">2020</text><text x="188" y="262">UTC+7</text><text x="288" y="262">INDONESIA</text></g>
+  <g class="fg" font-size="15" font-weight="600"><text x="88" y="262">2019</text><text x="188" y="262">UTC+7</text><text x="288" y="262">INDONESIA</text></g>
   <g transform="translate(424 257)"><circle class="beacon" cx="0" cy="0" r="4"/><circle class="gr" cx="0" cy="0" r="4"/></g><text class="gr" x="436" y="262" font-size="15" font-weight="600">ACTIVE</text>
 </g>
 <path class="ln" d="M616 28V256" stroke-dasharray="2 4"/>
